@@ -1,0 +1,23 @@
+﻿chartType,2006,2016
+Line + column,1,
+Radar,1,
+Encounter Diagram,1,
+Dot strip plot,2,1
+Priestley timeline,,1
+Pie,,1
+Lollipop,,2
+Area chart,,3
+Sparsity Matrix,,3
+Bar,,4
+Network,6,5
+Boxplot,1,6
+Stacked column,,6
+Flowchart,10,6
+Paired column,,10
+Contour map,5,10
+Column,3,13
+Histogram,2,14
+XY heatmap,1,41
+Scatterplot,65,50
+Connected scatterplot,28,61
+Line,183,226

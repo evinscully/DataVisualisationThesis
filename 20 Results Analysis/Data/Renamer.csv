@@ -1,0 +1,33 @@
+OldNames,NewNames
+Timestamp,timestamp
+What age are you?,age
+What is your gender?,gender
+What is your highest level of education (either attending or completed)?,education
+What device are you using?,device
+What colour are your eyes?,eyecolour
+"Do you suffer from colour blindness and if so, what kind?",colourblind
+Would you describe yourself as a visual learner or a verbal learner?,learnkind
+"If you have made an info-graphic or piece of data visualization in the past six months, what tools do you primarily use? If you have not, just skip the question.",vistools
+What percentage is the BLUE section?,exp1
+What is B as a percentage of C?,exp2
+Imagine that these are two hands on a clock. What is the smaller angle between the two hands? (Answer should be in degrees),exp3
+What percentage of the circle is ORANGE?,exp4
+A large company has approached you and are asking for your advice. They are trying to better understand their sales over the past 6 years. Which graph should they use?,scenario1
+You have been asked by a newspaper for your help. Which of these charts should they use to represent the results of the Brexit vote?,scenario2
+You have been approached by a toothbrush manufacturer. They would like to know which chart they should use to advertise their sales. Which one do you think they should use?,scenario3
+Your friend studying geography has approached you asking for advice. They have collected data on rainfall in Ireland for their thesis and are wondering which graph they should use to represent their findings?,scenario4
+What percentage is ORANGE?,pie
+What percentage is ORANGE?.1,donut
+What percentage is ORANGE?.2,treemap
+"What size is B, using the axis on the left?",bar
+What percentage is ORANGE?.3,stacked
+What is B as a percentage of A?,funnel
+What is B as a percentage of C?.1,funnel
+What is the smaller angle between the two hands? (Answer should be in degrees),angle1
+What is the smaller angle between the two hands? (Answer should be in degrees).1,angle2
+What percentage of the circle is the BLUE arc?,arc1
+What percentage of the circle is the BLUE arc?.1,arc2
+What percentage of the circle is ORANGE?.1,area1
+What percentage of the circle is ORANGE?.2,area2
+Any thoughts or comments?,comments
+How well do you think you answered the questions?,confidence

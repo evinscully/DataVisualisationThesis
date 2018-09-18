@@ -1,0 +1,33 @@
+timestamp,age,gender,education,device,eyecolour,colourblind,learntype,vistools,exp1,exp2,exp3,exp4,scenario1,scenario2,scenario3,scenario4,pie,donut,treemap,bar,stacked,funnel,angle1,angle2,arc1,arc2,area1,area2,comments,confidence
+19/02/2018 19:47,24,Male,Honours Bachelor Degree,Mobile Phone,Blue,Deuteranopes (red-green blindness),3,Excel,75,39.7,90,25,Option 2,Option 2,Option 1,Option 3,13.5,20,16.67,78,25,10,25,135,10,25,37,50,Best of luck with your thesis!,3
+19/02/2018 19:49,24,Female,Masters Degree,Mobile Phone,Green,No,3,,,,,,Option 2,Option 2,Option 2,Option 3,10,20,15,80,25,10,60,135,12.5,30,33,50,,4
+19/02/2018 19:56,24,Male,Honours Bachelor Degree,Desktop/Laptop Computer,Blue,No,3,"Powerpoint, Python, MATLAB",75,50,90,,Option 2,Option 2,Option 2,Option 3,12,15,18,80,25,10,60,135,12.5,25,25,66.6666666,Difficult to tell the angles/comparisons without a reference line. Reference lines/datum help a lot when comparing info. You'll probably notice that in the results anyway. Best of luck with the Thesis. Cian.,3
+19/02/2018 20:03,25,Male,Leaving Certificate,Mobile Phone,Brown,No,2,,75,39.7,90,25,Option 2,Option 2,Option 2,Option 3,22,32,30,75,20,15,110,180,15,25,25,40,,2
+19/02/2018 20:05,24,Female,Honours Bachelor Degree,Mobile Phone,Brown,No,2,Excel,75,45,90,,Option 2,Option 2,Option 2,Option 3,8,15,15,75,20,10,70,120,10,18,20,45,,3
+19/02/2018 20:50,24,Male,Honours Bachelor Degree,Mobile Phone,Blue,No,1,,75,39.7,90,25,Option 2,Option 2,Option 2,Option 3,16.666667,21.4,20,80,28.7,11.1111,60,120,12.5,25,33,40,,2
+19/02/2018 21:05,24,Male,Honours Bachelor Degree,Mobile Phone,Blue,No,3,"Powerpoint, Adobe Illustrator",75,39.7,90,25,Option 2,Option 2,Option 1,Option 1,25,15,10,80,25,20,15,75,15,25,25,40,I’m too dyspraxic for this ,1
+19/02/2018 21:15,23,Female,Honours Bachelor Degree,Mobile Phone,Brown,No,3,,75,39.7,90,25,Option 2,Option 2,Option 1,Option 1,26,20,25,80,33,10,90,120,20,35,33,47,,1
+19/02/2018 21:26,24,Male,Masters Degree,Mobile Phone,Green,No,3,Python,75,33,90,25,Option 2,Option 1,Option 2,Option 1,8,10,12,72,30,10,40,110,5,25,75,48,,4
+19/02/2018 21:55,24,Female,Honours Bachelor Degree,Mobile Phone,Green,No,2,Paint,75,39.7,90,25,Option 2,Option 2,Option 1,Option 1,12,10,20,80,30,10,25,130,15,25,35,50,V interesting!,3
+19/02/2018 21:56,30,Female,Masters Degree,Mobile Phone,Brown,No,2,Powerpoint,75,,,,Option 2,Option 2,Option 2,Option 3,12.5,20,17.5,60,25,12,45,120,10,30,30,45,,3
+19/02/2018 22:21,22,Female,Masters Degree,Mobile Phone,Brown,No,2,"Excel, Powerpoint",,,,,Option 2,Option 2,Option 1,Option 3,10,17,15,87,20,10,45,120,15,25,33.3,50,,3
+19/02/2018 22:45,31,Female,Masters Degree,Mobile Phone,Brown,No,2,"Excel, Powerpoint",75,39,90,25,Option 2,Option 2,Option 2,Option 1,20,20,17,80,20,7,40,160,10,25,25,50,Nah,3
+19/02/2018 22:45,,Male,Masters Degree,Mobile Phone,Greyish blue ,No,2,"Excel, Powerpoint",75,33,90,30,Option 2,Option 2,Option 1,Option 3,10,18,15,65,25,10,70,120,10,20,30,50,Good luck! ,4
+19/02/2018 22:52,24,Female,Ordinary Bachelor Degree,Mobile Phone,Blue,No,3,"Excel, Powerpoint, Canva",75,39.77777778,90,25,Option 2,Option 2,Option 2,Option 3,10,18,66.666666,70,30,10,45,120,10,25,25,49,That one with the orange and blue circle really messed me up and now I’m really uncertain if I know anything ,2
+19/02/2018 23:17,23,Female,Masters Degree,Mobile Phone,Green,No,2,Powerpoint,75,39.7,90,25,Option 2,Option 2,Option 2,Option 1,10,20,15,75,25,10,60,150,10,25,35,50,,4
+19/02/2018 23:59,24,Male,Honours Bachelor Degree,Mobile Phone,Bluey greeny yellowy grey,No,2,,75,33.333333,90,20,Option 2,Option 1,Option 1,Option 4,13,15,20,80,25,10,80,135,10,25,35,48,,4
+20/02/2018 10:29,26,Female,Honours Bachelor Degree,Mobile Phone,Hazel,No,3,"Excel, Powerpoint, Origin",75,40,90,25,Option 2,Option 2,Option 2,Option 4,10,17,17,80,25,12.5,60,120,12.5,25,33,50,Fun figuring it out!,4
+20/02/2018 12:32,24,Male,Honours Bachelor Degree,Desktop/Laptop Computer,Blue,No,3,R,75,39,90,25,Option 2,Option 1,Option 1,Option 3,35,15,17.5,78,15,10,18,125,9,25,34,48,,4
+20/02/2018 15:46,24,Male,Honours Bachelor Degree,Desktop/Laptop Computer,Blue,Deuteranopes (red-green blindness),2,,75,39.7,90,25,Option 2,Option 2,Option 2,Option 4,10,16.5,12.5,85,25,10,60,120,10,25,33,50,,3
+20/02/2018 16:27,24,Female,Masters Degree,Mobile Phone,Blue,No,1,Powerpoint,75,39.7,90,25,Option 2,Option 2,Option 2,Option 4,10,20,20,80,25,10,70,135,20,75,33.3,50,,2
+20/02/2018 16:39,24,Male,Honours Bachelor Degree,Mobile Phone,Green,No,3,"Powerpoint, Python",75,40,90,25,Option 2,Option 2,Option 2,Option 3,14,18,17,78,30,45,83,125,14,27,33,45,,4
+20/02/2018 19:04,23,Male,Honours Bachelor Degree,Mobile Phone,Brown,No,2,,75,39.7,90,25,Option 2,Option 2,Option 2,Option 3,18,22,18,75,25,8,35,135,7,25,33,50,,4
+20/02/2018 20:35,24,Female,Honours Bachelor Degree,Desktop/Laptop Computer,Blue,No,3,Powerpoint,75,39.7,90,25,Option 2,Option 2,Option 1,Option 3,12.5,18,33.3,75,25,10,60,135,10,25,35,47,"Nice survey my brother, I hope your thesis goes swimmingly. Love Regdar (I think that's my name)",5
+20/02/2018 22:35,24,Male,Honours Bachelor Degree,Mobile Phone,Brown,No,2,,75,40,90,30,Option 2,Option 2,Option 2,Option 3,12.5,20,16,80,30,10,75,140,10,30,25,48,,2
+20/02/2018 22:56,24,Female,Honours Bachelor Degree,Desktop/Laptop Computer,Blue,No,2,,75,39.7,90,25,Option 2,Option 2,Option 2,Option 1,10,20,20,75,25,10,50,135,10,25,37,45,,3
+21/02/2018 01:08,27,Male,Doctoral Degree,Desktop/Laptop Computer,Brown,No,3,"Excel, Graphpad Prism",75,40,90,25,Option 2,Option 2,Option 2,Option 4,25,35,20,80,25,10,70,120,20,35,35,45,,3
+21/02/2018 01:26,38,Male,Ordinary Bachelor Degree,Mobile Phone,Brown,No,3,"Excel, Powerpoint, Power BI",75,39.7,90,25,Option 2,Option 1,Option 2,Option 3,10,69,15,80,25,10,60,135,15,90,25,50,,
+21/02/2018 08:20,29,Female,Masters Degree,Mobile Phone,Blue,No,1,Powerpoint,75,39.7,90,25,Option 2,Option 2,Option 1,Option 3,9,25,20,80,35,10,60,120,15,30,40,45,,4
+25/02/2018 14:31,24,Male,ACA ,Desktop/Laptop Computer,Blue,No,2,Excel,75,39.7,90,25,Option 2,Option 2,Option 2,Option 3,10,12.5,17.17,80,25,12.5,75,135,7.5,25,30,50,,4
+25/02/2018 21:52,31,Male,Ordinary Bachelor Degree,Mobile Phone,Grey,No,2,Powerpoint,75,39.7,90,,Option 2,Option 2,Option 2,Option 4,5,20,10,80,25,10,70,120,10,25,20,40,,5
+01/03/2018 11:20,24,Female,Masters Degree,Desktop/Laptop Computer,Brown,No,3,"Excel, Powerpoint, Python, MATLAB",75,40,90,25,Option 2,Option 2,Option 1,Option 1,15,15,16.67,25,16.67,10,70,110,10,30,30,50,,3

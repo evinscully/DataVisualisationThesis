@@ -1,0 +1,40 @@
+timestamp,age,gender,education,device,eyecolour,colourblind,learntype,vistools,exp1,exp2,exp3,exp4,scenario1,scenario2,scenario3,scenario4,pie,donut,treemap,bar,stacked,funnel,angle1,angle2,arc1,arc2,area1,area2,comments,confidence
+19/02/2018 19:57,25,Male,Masters Degree,Desktop/Laptop Computer,Brown,No,2,Powerpoint,75,40,90,25,Option 2,Option 2,Option 2,Option 4,48,4,36,50,39,40,110,95,12,47,18,43,Super fun,5
+19/02/2018 20:08,23,Female,Honours Bachelor Degree,Mobile Phone,Blue,No,2,,75,40,90,25,Option 2,Option 2,Option 2,Option 1,44,5,20,48,40,37,100,95,12.5,40,20,40,,2
+19/02/2018 20:18,24,Male,Masters Degree,Desktop/Laptop Computer,Brown,No,3,"Excel, Powerpoint, Python, MATLAB",75,39.7,90,25,Option 2,Option 2,Option 1,Option 3,40,10,60,45,35,40,87,40,8.333333333,45,20,45,Looking at some of the graphs gave me an aneurysm,4
+19/02/2018 21:11,27,Male,Honours Bachelor Degree,Mobile Phone,Green,No,2,Powerpoint,75,40,90,25,Option 2,Option 2,Option 1,Option 1,47,5,60,52,40,50,100,92,9,48,16,38,,3
+19/02/2018 21:14,27,Male,Honours Bachelor Degree,Mobile Phone,Brown,No,2,"Excel, Powerpoint, Python, R, D3, SAP Lumira, SAP Predictive Analytics",75,33,90,25,Option 2,Option 2,Option 1,Option 1,48,5,40,45,33,33,100,92,10,49,20,40,There were questions where I wasn't sure if I should answer in the persona or give the honest answer (i.e. some of the charts are tactfully deceptive),4
+19/02/2018 21:14,24,Male,Masters Degree,Mobile Phone,Blue,No,3,"Excel, Powerpoint",75,39.7,90,25,Option 2,Option 1,Option 1,Option 3,45,5,60,50,40,45,110,100,15,45,20,40,,3
+19/02/2018 21:31,24,Male,Masters Degree,Mobile Phone,Blue,No,3,"Excel, Powerpoint",75,40,90,25,Option 2,Option 2,Option 2,Option 3,45,5,45,50,30,50,105,95,10,55,25,40,Good survey. Hope you find good findings. ,4
+19/02/2018 22:01,24,Female,Masters Degree,Desktop/Laptop Computer,Blue,No,3,Powerpoint,75,39.7,90,25,Option 2,Option 2,Option 2,Option 3,45,15,75,45,17,42,110,90,10,50,25,40,,2
+19/02/2018 22:20,,Male,Masters Degree,Desktop/Laptop Computer,Brown,No,3,"Excel, AutoCAD",75,39.7,90,25,Option 2,Option 2,Option 2,Option 1,45,5,37.5,50,39,50,103.5,100,10,44,25,40,,3
+19/02/2018 22:24,22,Female,Honours Bachelor Degree,Mobile Phone,Blue,No,3,"Excel, Powerpoint, Gaussian (computational chemistry), ChemDraw (similar)",75,39.7,90,25,Option 2,Option 2,Option 2,Option 1,47,8,65,50,45,40,120,100,13,50,20,40,,3
+19/02/2018 22:39,24,Female,Masters Degree,Desktop/Laptop Computer,Grey,No,1,"Excel, Canva",75,39.7,90,25,Option 2,Option 2,Option 2,Option 4,40,5,40,50,35,40,100,95,15,50,25,30,Nice sense of humour throughout this! Very enjoyable! ,1
+19/02/2018 22:51,23,Male,Honours Bachelor Degree,Mobile Phone,Blue,No,2,,75,33,90,20,Option 2,Option 2,Option 1,Option 1,45,10,40,50,35,40,120,100,10,45,25,37.5,,4
+19/02/2018 23:00,24,Male,Masters Degree,Mobile Phone,Brown,No,1,"Excel, Powerpoint, MATLAB, Osisoft pi",75,39.7,90,25,Option 2,Option 2,Option 2,Option 3,47,5,45,45,40,40,110,100,15,45,15,35,,4
+19/02/2018 23:09,23,Male,Honours Bachelor Degree,Mobile Phone,Blue,No,2,"Excel, Powerpoint, Python, R, MATLAB, Tableau, D3",75,39.7,90,25,Option 2,Option 2,Option 1,Option 1,45,5,40,50,40,40,60,50,10,45,15,40,,3
+19/02/2018 23:28,,Male,Honours Bachelor Degree,Mobile Phone,Brown,No,3,Qlik view / Qlik Sense,75,39.7,90,25,Option 2,Option 2,Option 2,Option 3,47,5,40,50,35,40,110,100,10,40,25,35,,4
+19/02/2018 23:30,23,Female,Masters Degree,Mobile Phone,Brown,No,3,,75,40,90,25,Option 2,Option 2,Option 2,Option 3,45,7,33,50,35,50,105,95,8.611111111,50,17,35,,3
+20/02/2018 00:03,23,Male,Masters Degree,Mobile Phone,Blue,Deuteranomalous (reduced sensitivity to green light),2,"Excel, Powerpoint",75,40,90,25,Option 2,Option 2,Option 2,Option 3,45,5,40,50,35,45,110,100,12.5,48,20,40,,4
+20/02/2018 02:22,23,Female,Masters Degree,Mobile Phone,Blue,No,2,Python,75,39.7,90,25,Option 2,Option 2,Option 1,Option 3,45,5,35,50,40,50,110,95,10,50,20,35,Nice colour palette,3
+20/02/2018 07:55,23,Male,Masters Degree,Desktop/Laptop Computer,Blue,No,2,"Excel, Powerpoint, Python",75,39.7,90,29,Option 2,Option 2,Option 1,Option 3,45,5,50,50,33,53,100,90,15,50,20,40,,2
+20/02/2018 11:09,22,Female,Honours Bachelor Degree,Desktop/Laptop Computer,Blue,No,1,,75,39.7,90,25,Option 2,Option 1,Option 1,Option 3,45,5,40,50,33,40,110,120,10,40,15,35,,2
+20/02/2018 14:48,28,Female,Masters Degree,Mobile Phone,Green,No,3,Powerpoint,75,39.7,90,25,Option 2,Option 2,Option 1,Option 1,47,10,35,50,30,45,95,92,10,50,15,38,Really interesting,2
+20/02/2018 16:00,29,Male,Masters Degree,Desktop/Laptop Computer,Green,No,3,"Excel, Powerpoint, Tableau, Power BI",75,40,90,25,Option 2,Option 2,Option 2,Option 3,46,10,60,45,40,60,60,90,20,50,20,35,it takes too much time,5
+20/02/2018 17:25,,Male,Masters Degree,Desktop/Laptop Computer,Green,No,2,"Excel, Powerpoint, Python, R, Tableau",75,45,90,30,Option 2,Option 2,Option 1,Option 3,46,9,40,50,38,75,110,95,18,45,20,42,,5
+20/02/2018 17:33,25,Female,Masters Degree,Desktop/Laptop Computer,Green,No,2,"Python, R, Tableau, D3",75,39.7,90,25,Option 2,Option 2,Option 2,Option 3,45,5,50,45,40,50,100,100,15,50,20,40,,3
+20/02/2018 17:41,26,Female,Honours Bachelor Degree,Desktop/Laptop Computer,Green,No,1,"Excel, Powerpoint, Adobe Illustrator",75,40,90,25,Option 2,Option 2,Option 2,Option 4,45,7,40,50,35,40,100,92,10,52,20,40,I have no idea how wrong those were and it's killing me,3
+20/02/2018 18:25,,Female,Masters Degree,Desktop/Laptop Computer,Blue,No,3,,75,40,90,25,Option 2,Option 2,Option 2,Option 2,45,10,70,50,25,40,100,95,15,50,25,40,,3
+21/02/2018 01:11,25,Male,Masters Degree,Mobile Phone,Blue,No,3,Powerpoint,75,33,90,25,Option 2,Option 2,Option 2,Option 1,46,7,38,50,33,50,120,95,10,45,20,40,Great survey!,3
+21/02/2018 13:26,27,Male,Masters Degree,Desktop/Laptop Computer,Green,No,1,Powerpoint,75,45,90,20,Option 2,Option 2,Option 2,Option 3,48,5,63,47,30,45,110,50,3,45,24,30,,4
+21/02/2018 13:44,45,Male,Masters Degree,Mobile Phone,Blue,No,3,Tableau,75,40,90,25,Option 2,Option 2,Option 1,Option 3,45,5,42,50,38,40,120,100,10,47,20,40,,5
+21/02/2018 15:21,24,Female,Honours Bachelor Degree,Desktop/Laptop Computer,Blue,No,3,"Excel, Tableau",75,39.7,90,25,Option 2,Option 2,Option 2,Option 1,48,5,55,50,40,50,110,100,10,50,20,40,,3
+21/02/2018 21:17,,Female,Doctoral Degree,Mobile Phone,Blue,No,3,R,75,39.7,90,25,Option 2,Option 2,Option 1,Option 3,46,5,40,55,40,55,95,100,15,50,20,30,,4
+21/02/2018 23:45,,Male,Masters Degree,Desktop/Laptop Computer,Green,No,2,Excel,75,40,90,33,Option 2,Option 2,Option 1,Option 3,33,6,62,50,10,42,110,110,10,50,25,40,,4
+22/02/2018 19:03,20,Male,Honours Bachelor Degree,Mobile Phone,Blue,No,2,"Excel, Powerpoint, Python",75,33.333,90,25,Option 2,Option 2,Option 2,Option 4,45,5,40,40,30,50,120,100,10,40,15,40,,4
+22/02/2018 22:35,28,Male,Masters Degree,Mobile Phone,Blue,No,2,"Excel, Powerpoint",75,35,90,25,Option 2,Option 2,Option 1,Option 3,45,5,40,50,40,45,90,105,12.5,50,20,35,,5
+24/02/2018 17:16,24,Female,Masters Degree,Mobile Phone,Blue,No,2,Powerpoint,75,40,90,35,Option 2,Option 1,Option 2,Option 3,48,5,50,50,45,40,100,95,8,47,20,40,,2
+25/02/2018 21:44,28,Female,Masters Degree,Mobile Phone,Brown,No,3,Adobe Illustrator,75,40,90,25,Option 2,Option 1,Option 1,Option 1,45.5,10,30,50,35,40,135,105,15,50,25,40,,2
+25/02/2018 22:17,27,Male,Masters Degree,Mobile Phone,Green,No,3,Adobe Illustrator,75,39.7,90,25,Option 2,Option 1,Option 2,Option 3,45,7,55,50,17,50,110,90,15,50,25,45,,3
+25/02/2018 23:50,29,Male,Masters Degree,Mobile Phone,Blue,No,3,"Excel, Powerpoint, Lumion, Prezi ",75,33.3,90,25,Option 2,Option 2,Option 2,Option 3,45,5,65,50,40,50,100,90,15,45,30,30,,4
+27/02/2018 17:58,50,Male,GCSE ?,Mobile Phone,Blue,No,2,Keynote - Mac,75,39.7,90,25,Option 2,Option 2,Option 2,Option 3,45,10,65,50,35,50,110,110,12.5,50,35,25,Thank you,3
